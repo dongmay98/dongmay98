@@ -1,6 +1,6 @@
-안녕하십니까 👋, 서동현의 깃허브 페이지입니다.</br>
-🌱 I’m currently learning FullStack Web Develop</br>
-📫 Contact : dhseo4202@gmail.com</br>
+## 안녕하십니까 👋, 서동현의 깃허브 페이지입니다.</br>
+### 🌱 I’m currently learning FullStack Web Develop</br>
+### 📫 Contact : dhseo4202@gmail.com</br>
 ✏ Stack</br>
 <div>
   <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
