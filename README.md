@@ -12,8 +12,6 @@
 <img src="https://img.shields.io/badge/nodedotjs-#339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></br>
 <img src="https://img.shields.io/badge/express-#000000?style=for-the-badge&logo=express&logoColor=white"></br>
 <img src="https://img.shields.io/badge/mongodb-#47A248?style=for-the-badge&logo=mongodb&logoColor=white"></br>
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
-stack
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongmay98&exclude_repo=dongmay98.github.io&layout=compact&theme=tokyonight" />
 </a>
