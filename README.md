@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Nodedotjs-339933?style=for-the-badge&logo=Nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
   <img src="https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=Mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
 </div>
 
 <a href="s">
